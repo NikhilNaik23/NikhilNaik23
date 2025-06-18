@@ -29,6 +29,8 @@ I'm **Nikhil Naik**, a passionate **Full Stack Developer** specializing in the *
 - Full-Stack Web Developer – LinkedIn Learning
 
 ### 💡 Featured Projects
+- **HealVerse:** MERN Stack HMS (In Progress)
+- **EliteMart:** Full-stack eCommerce platform with dynamic product listings, secure authentication, and PayPal integration. Optimized for performance and responsiveness (MERN, Paypal Integration)
 - **Admin Dashboard:** Feature-rich dashboard for managing city attractions & cuisines (React, Node, MongoDB)
 - **Real-Time Group Chat:** Scalable chat app with sub-100ms latency and JWT authentication (MERN, Socket.io)
 - **Portfolio:** Responsive personal portfolio with smooth animations (React, Nodemailer, Tailwind)
