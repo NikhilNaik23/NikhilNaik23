@@ -180,13 +180,12 @@ Real-time messaging application.
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NikhilNaik23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNaik23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilNaik23&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNaik23&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=NikhilNaik23&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NikhilNaik23&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -194,9 +193,7 @@ Real-time messaging application.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NikhilNaik23&theme=algolia"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=NikhilNaik23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -204,9 +201,15 @@ Real-time messaging application.
 # 📈 Contribution Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilNaik23&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilNaik23&theme=tokyo-night"/>
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/NikhilNaik23/NikhilNaik23/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -240,17 +243,14 @@ Real-time messaging application.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/NikhilNaik23">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nenavathnikhil2@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
 
 </p>
 
