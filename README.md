@@ -184,13 +184,6 @@ Real-time messaging application.
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikhilNaik23&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NikhilNaik23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
