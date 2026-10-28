@@ -11,13 +11,8 @@ Building scalable backend systems, distributed applications, and secure software
 
 - 🎓 B.Tech Computer Science Graduate
 - 💻 Backend Developer passionate about scalable software engineering
-- 🌱 Currently learning **System Design**, **Microservices**, and **Cybersecurity**
 - 🔥 Interested in
-  - Distributed Systems
   - Backend Development
-  - REST APIs
-  - Spring Boot
-  - Node.js
   - Security
 - ⚡ I enjoy solving real-world problems through software.
 
