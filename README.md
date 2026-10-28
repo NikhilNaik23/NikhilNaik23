@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Naik</h1>
-<h3 align="center">Backend Developer | MERN Stack | Spring Boot | FastAPI | Android Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
 Building scalable backend systems, distributed applications, and secure software.
