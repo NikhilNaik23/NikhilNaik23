@@ -170,23 +170,6 @@ Real-time messaging application.
 - User Presence
 - Media Sharing
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NikhilNaik23&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikhilNaik23&layout=compact&theme=tokyonight"/>
-</p>
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilNaik23&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
